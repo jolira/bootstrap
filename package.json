@@ -1,6 +1,6 @@
 {
     "name":"jolira-bootstrap",
-    "description":"Sleek, intuitive, and powerful front-end framework for faster and easier web development; adopted for the site-manager", "version":"2.1.0", "keywords":["bootstrap", "css"], "homepage":"http://twitter.github.com/bootstrap/",
+    "description":"Sleek, intuitive, and powerful front-end framework for faster and easier web development; adopted for the site-manager", "version":"2.1.1", "keywords":["bootstrap", "css"], "homepage":"http://twitter.github.com/bootstrap/",
     "contributors":[
         "Joachim Kainz <jfk@jolira.com> (http://www.jolira.com)"
     ],
